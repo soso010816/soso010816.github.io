@@ -5,14 +5,15 @@
     <link>https://soso010816.github.io/posts/</link>
     <description>Recent content in Posts on Soso&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://soso010816.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Aug 2022 16:30:19 +0800</lastBuildDate><atom:link href="https://soso010816.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Build Neural Network With Python</title>
       <link>https://soso010816.github.io/posts/2022-8-29/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Aug 2022 16:30:19 +0800</pubDate>
       
       <guid>https://soso010816.github.io/posts/2022-8-29/</guid>
-      <description>https://blog.csdn.net/m0_63143821/article/details/126582780</description>
+      <description>“ 简短的介绍 ” 这段时间参加的数模模拟刚好用到了深度学习的底层架构神经网络模型，于是自己索性就将我数模中用到的代码封装了以下，做成如下的神经网</description>
     </item>
     
   </channel>
