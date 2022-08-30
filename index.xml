@@ -6,18 +6,27 @@
     <description>Recent content on Soso&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Aug 2022 11:30:19 +0800</lastBuildDate><atom:link href="https://soso010816.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 16:30:19 +0800</lastBuildDate><atom:link href="https://soso010816.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Build Simple XGBoost With Python</title>
+      <title>DL：LSTM With Python(Time Series Question)</title>
+      <link>https://soso010816.github.io/posts/lstm/</link>
+      <pubDate>Tue, 30 Aug 2022 16:30:19 +0800</pubDate>
+      
+      <guid>https://soso010816.github.io/posts/lstm/</guid>
+      <description>“ 简单的介绍 ” · 初见LSTM🤦‍♂️ 2022年的美赛之际，巨弱第一次邂逅LSTM，当时巨弱的美赛题是关于时序预测、制定交易策略方面，赛前队长</description>
+    </item>
+    
+    <item>
+      <title>ML：Simple XGBoost With Python</title>
       <link>https://soso010816.github.io/posts/xgboost-python/</link>
       <pubDate>Tue, 30 Aug 2022 11:30:19 +0800</pubDate>
       
       <guid>https://soso010816.github.io/posts/xgboost-python/</guid>
-      <description>简单的介绍 初次接触XGBoost 相信大部分接触过数模、机器学习的朋友都对XGBoost有所耳闻，巨弱我第一次接触它是在2021年12月第一次</description>
+      <description>“ 简单的介绍 ” 初次接触XGBoost 相信大部分接触过数模、机器学习的朋友都对XGBoost有所耳闻，巨弱我第一次接触它是在2021年12月第</description>
     </item>
     
     <item>
-      <title>Build CNN With Python</title>
+      <title>DL：CNN With Python</title>
       <link>https://soso010816.github.io/posts/cnn-python/</link>
       <pubDate>Mon, 29 Aug 2022 23:11:19 +0800</pubDate>
       
@@ -26,7 +35,7 @@
     </item>
     
     <item>
-      <title>Build Neural Network With Python</title>
+      <title>DL：Neural Network With Python</title>
       <link>https://soso010816.github.io/posts/nn-python/</link>
       <pubDate>Mon, 29 Aug 2022 16:30:19 +0800</pubDate>
       
