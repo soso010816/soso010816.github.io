@@ -6,11 +6,11 @@
     <description>Recent content on Soso&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Aug 2022 16:30:19 +0800</lastBuildDate><atom:link href="https://soso010816.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Aug 2022 12:30:19 +0800</lastBuildDate><atom:link href="https://soso010816.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DL：LSTM With Python(Time Series Question)</title>
       <link>https://soso010816.github.io/posts/lstm/</link>
-      <pubDate>Tue, 30 Aug 2022 16:30:19 +0800</pubDate>
+      <pubDate>Wed, 31 Aug 2022 12:30:19 +0800</pubDate>
       
       <guid>https://soso010816.github.io/posts/lstm/</guid>
       <description>“ 简单的介绍 ” · 初见LSTM🤦‍♂️ 2022年的美赛之际，巨弱第一次邂逅LSTM，当时巨弱的美赛题是关于时序预测、制定交易策略方面，赛前队长</description>
