@@ -13,7 +13,7 @@
       <pubDate>Fri, 02 Sep 2022 12:30:19 +0800</pubDate>
       
       <guid>https://soso010816.github.io/posts/tm-tree2/</guid>
-      <description>在 [上一篇post](https://soso010816.github.io/posts/TM tree1) 中，我介绍了机器学习中树模型在时间序列中的</description>
+      <description>在 上一篇post 中，我介绍了机器学习中树模型在时间序列中的运用方式，举例了如何构建特征变量并XGBoost进行时序预测，但并不是所有的时序预</description>
     </item>
     
     <item>
