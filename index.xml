@@ -6,9 +6,27 @@
     <description>Recent content on Soso&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Aug 2022 12:30:19 +0800</lastBuildDate><atom:link href="https://soso010816.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Sep 2022 12:30:19 +0800</lastBuildDate><atom:link href="https://soso010816.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DL：LSTM With Python(Time Series Question)</title>
+      <title>ML|TS：Reflections on Tree models in Time Series</title>
+      <link>https://soso010816.github.io/posts/tm-tree2/</link>
+      <pubDate>Fri, 02 Sep 2022 12:30:19 +0800</pubDate>
+      
+      <guid>https://soso010816.github.io/posts/tm-tree2/</guid>
+      <description>在 [上一篇post](https://soso010816.github.io/posts/TM tree1) 中，我介绍了机器学习中树模型在时间序列中的</description>
+    </item>
+    
+    <item>
+      <title>ML|TS：Tree Models With Time Series</title>
+      <link>https://soso010816.github.io/posts/tm-tree1/</link>
+      <pubDate>Thu, 01 Sep 2022 12:30:19 +0800</pubDate>
+      
+      <guid>https://soso010816.github.io/posts/tm-tree1/</guid>
+      <description>“ 关于ML树模型在时序方面运用的Post ” 一、对于单个时序变量的预测，如何进行特征变量的构建 1. 对时序变量 Y 进行滞后 对于时序变量 Y 进行 滞后N步</description>
+    </item>
+    
+    <item>
+      <title>DL|TS：LSTM With Python(Time Series Question)</title>
       <link>https://soso010816.github.io/posts/lstm/</link>
       <pubDate>Wed, 31 Aug 2022 12:30:19 +0800</pubDate>
       
@@ -41,6 +59,15 @@
       
       <guid>https://soso010816.github.io/posts/nn-python/</guid>
       <description>“ 简短的介绍 ” 这段时间参加的数模模拟刚好用到了深度学习的底层架构神经网络模型，于是自己索性就将我数模中用到的代码封装了以下，做成如下的神经网</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://soso010816.github.io/posts/diary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://soso010816.github.io/posts/diary/</guid>
+      <description></description>
     </item>
     
     <item>
