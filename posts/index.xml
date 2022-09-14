@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Soso&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Sep 2022 12:30:19 +0800</lastBuildDate><atom:link href="https://soso010816.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Sep 2022 14:24:19 +0800</lastBuildDate><atom:link href="https://soso010816.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML：自编码器（AutoEncoder）在降维中的作用</title>
+      <link>https://soso010816.github.io/posts/auto-encode/</link>
+      <pubDate>Wed, 14 Sep 2022 14:24:19 +0800</pubDate>
+      
+      <guid>https://soso010816.github.io/posts/auto-encode/</guid>
+      <description>(1) 简介 在深度学习中，自动编码器是一种无监督的神经网络模型，由编码器组件和解码器组件组成，编码器(encoder)获取输入向量并将其转换为压缩</description>
+    </item>
+    
     <item>
       <title>ML|TS：Reflections on Tree models in Time Series</title>
       <link>https://soso010816.github.io/posts/tm-tree2/</link>
@@ -59,15 +68,6 @@
       
       <guid>https://soso010816.github.io/posts/nn-python/</guid>
       <description>“ 简短的介绍 ” 这段时间参加的数模模拟刚好用到了深度学习的底层架构神经网络模型，于是自己索性就将我数模中用到的代码封装了以下，做成如下的神经网</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://soso010816.github.io/posts/diary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://soso010816.github.io/posts/diary/</guid>
-      <description></description>
     </item>
     
   </channel>
